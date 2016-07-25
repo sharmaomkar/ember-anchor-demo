@@ -1,0 +1,1 @@
+{"modulePrefix":"myweb","environment":"test","baseURL":"/","locationType":"none","EmberENV":{"FEATURES":{}},"emberAnchor":{"anchorQueryParam":"anc"},"APP":{"LOG_ACTIVE_GENERATION":false,"LOG_VIEW_LOOKUPS":false,"rootElement":"#ember-testing","name":"myweb","version":"0.0.0+babb4867"},"exportApplicationGlobal":true}

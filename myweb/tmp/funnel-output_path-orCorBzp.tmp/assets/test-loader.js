@@ -1,0 +1,1 @@
+/home/somkar/mygo/src/github.com/emb-anchor-addon/ember-anchor-demo/myweb/tmp/funnel-input_base_path-FoXU4JJk.tmp/0/bower_components/ember-cli-test-loader/test-loader.js

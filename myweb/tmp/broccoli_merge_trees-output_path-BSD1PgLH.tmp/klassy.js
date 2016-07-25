@@ -1,0 +1,1 @@
+/home/somkar/mygo/src/github.com/emb-anchor-addon/ember-anchor-demo/myweb/node_modules/ember-cli-qunit/node_modules/ember-qunit/node_modules/ember-test-helpers/node_modules/klassy/lib/klassy.js
